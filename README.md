@@ -4,7 +4,6 @@
 
 <div align="center">
   <img height="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ouzzletzvkno2itx2vdfsqgoixmae02m1d3bbkt7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-  <img height="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif"  />
   
 </div>
 
@@ -15,7 +14,6 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img align="center" height="390" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"  />
   <img align="center" height="390" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif"  />
 </div> </br>
 
@@ -35,7 +33,10 @@
 
 
 ## 😄 Fun Area
+  <img align="center" height="390" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"  />
+  
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
