@@ -8,7 +8,9 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m currently learning **React**<br><br> 💬 Ask me about **javascript, sass, css**<br><br> 📫 How to reach me **eyvazkarimli@gmail.com**
+🌱 I’m currently learning **React**<br><br> 💬 Ask me about **javascript, sass, css**<br><br> 📫 How to reach me: </br> <img width="20" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI"  /> **eyvazkarimli@gmail.com** </br>
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"  /> 
+[linkedin.com/in/eyvaz-karimli](https://www.linkedin.com/in/eyvaz-karimli-58a58928b/)
 
 
 
