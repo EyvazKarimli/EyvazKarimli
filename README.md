@@ -30,13 +30,14 @@
 
 
 ## 😄 Fun Area
-  <img align="center" height="200" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"  />
   <img align="left" height="200" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/face.gif" />
   
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂 Random Dev Meme
+  <img align="center" height="200" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"  />
+  
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
